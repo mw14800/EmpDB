@@ -1,5 +1,5 @@
 ﻿/////////////////////////////////////////////////////////////////////////////// 
-//3/3/2026 ----- Marcus Weaver & Joesephine Solon ------ Employee.cs
+//3/3/2026 ----- Marcus Weaver & Josephine Solon ------ Employee.cs
 //* (C) Copyright 1992-2017 by Deitel & Associates, Inc. and               
 //* Pearson Education, Inc. All Rights Reserved.                     
 // Fig. 12.5: SalariedEmployee.cs
